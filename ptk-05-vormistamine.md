@@ -46,10 +46,14 @@ Peatüki pealkirja ja alapeatuki pealkirja vahel peab olema vähemalt üks lõik
 
 Pealkirjades sõnu ei poolitata, lühendeid ei kasutata. Pealkirjad joondatakse lehe vasakusse serva (v.a lisade pealkirjad, need asuvad lehe paremas servas) ja pealkirja lõppu ei panda punkti.
 
-Pealkirjad vormistatakse järgmiselt: 
-1) PEATÜKI PEALKIRI joondatakse lehe vasakusse serva (Heading 1/Pealkiri 1) Arial, 14 pt, rasvane, kõik trükitähed, lõiguvahe pärast 12 pt ja reavahe 1,5; must. 
-2) Alapeatüki pealkiri joondatakse lehe vasakusse serva (Heading 2/Pealkiri 2) Arial, 14 pt, rasvane, esimene suurtäht, lõiguvahe pärast 12 pt ja reavahe 1,5; must. 
-3) Punkti pealkiri joondatakse lehe vasakusse serva (Heading 3/Pealkiri 3) Times New Roman 12 pt, rasvane, esimene suurtäht, lõiguvahe pärast 12 pt ja reavahe 1,5; must. 
+Pealkirjad vormistatakse järgmiselt:
+
+1) PEATÜKI PEALKIRI joondatakse lehe vasakusse serva (Heading 1/Pealkiri 1) Arial, 14 pt, rasvane, kõik trükitähed, lõiguvahe pärast 12 pt ja reavahe 1,5; must.
+
+2) Alapeatüki pealkiri joondatakse lehe vasakusse serva (Heading 2/Pealkiri 2) Arial, 14 pt, rasvane, esimene suurtäht, lõiguvahe pärast 12 pt ja reavahe 1,5; must.
+ 
+3) Punkti pealkiri joondatakse lehe vasakusse serva (Heading 3/Pealkiri 3) Times New Roman 12 pt, rasvane, esimene suurtäht, lõiguvahe pärast 12 pt ja reavahe 1,5; must.
+ 
 4) Lisa 1. Pealkiri joondatakse lehe paremasse serva (Heading 4/Pealkiri 4) Times New Roman 12 pt, rasvane, esimene suurtäht, sõna Lisa ja selle number on kaldkirjas, lõiguvahe pärast 12 pt ja reavahe 1,5; must.
  
 ## 5.4. Nummerdus
