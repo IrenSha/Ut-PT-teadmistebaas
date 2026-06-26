@@ -284,5 +284,9 @@ leheküljenumbrid,
 APA7,
 viitamine,
 allikaloend,
+allikad,
 sisukord,
-lisad
+lisad,
+joonis,
+tabel,
+diagramm
