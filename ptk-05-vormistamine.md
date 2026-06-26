@@ -12,17 +12,27 @@ Käesolevas peatükis kirjeldatu on aluseks Paide Gümnaasiumis valmivate õpila
 - Peatükid algavad uuelt lehelt
 
 ## 5.1. Üldnõuded töö vormistamisel
-Töö vormistatakse arvutis A4 lehel. Lehe veerised st lehekülje vaba ruum on 3 cm vasakust ja 2 cm teistest servadest. 
+Töö vormistatakse arvutis A4 lehel. Lehe veerised st lehekülje vaba ruum on 3 cm vasakust ja 2 cm teistest servadest.
+
 Kirjatüüp on Times New Roman, tähe suurus 12 punkti (12 pt), reavahe 1,5.
-Tekst joondatakse nii vasak- kui ka parempoolse serva järgi, st tekst on rööp- ehk täisjoondatud (Justified). Tuleb jälgida, et vähemalt 1/2 lehe mahust on täidetud tekstiga. 
-Töös jaotatakse tekst lõikudeks. Tekstilõigud eraldatakse laiema vahemikuga nn plokkstiilis 12 pt. Töös ei kasutata taandridu (v.a ilukirjanduslik tekst). 
-Tuleb vältida töö peatüki alustamist ja lõpetamist tabelite, jooniste või loeteluga. 
-Teksti esile tõstmise kasutamisel tuleb olla mõõdukas. Kasutatakse 1–2 erinevat vormindamise võtet (kaldkiri, rasvane, laiendatud), mida järgitakse terve töö vältel. 
-Eestikeelses tekstis tuuakse võõrkeelsed sõnad ja selgitused kaldkirjas sulgudes kohe selgitatava sõna järel peale tühikut. 
+
+Tekst joondatakse nii vasak- kui ka parempoolse serva järgi, st tekst on rööp- ehk täisjoondatud (Justified). Tuleb jälgida, et vähemalt 1/2 lehe mahust on täidetud tekstiga.
+
+Töös jaotatakse tekst lõikudeks. Tekstilõigud eraldatakse laiema vahemikuga nn plokkstiilis 12 pt. Töös ei kasutata taandridu (v.a ilukirjanduslik tekst).
+
+Tuleb vältida töö peatüki alustamist ja lõpetamist tabelite, jooniste või loeteluga.
+
+Teksti esile tõstmise kasutamisel tuleb olla mõõdukas. Kasutatakse 1–2 erinevat vormindamise võtet (kaldkiri, rasvane, laiendatud), mida järgitakse terve töö vältel.
+
+Eestikeelses tekstis tuuakse võõrkeelsed sõnad ja selgitused kaldkirjas sulgudes kohe selgitatava sõna järel peale tühikut.
+
 Kõik kirjalikud tööd koostatakse arvutil ja vajadusel prinditakse valge paberi ühele poolele formaadis A4. Kirjalike tööde vormistamisel on kõige olulisem stiiliühtsus kogu töös. Kõikides peatükkides peab olema tekst ühtemoodi kujundatud. 
 
 ## 5.2. Leheküljenumbrid
-Kõik leheküljed alates sissejuhatuse teisest leheküljest (mitmelehelise sissejuhatuse korral) või töö teoreetilise osa esimesest leheküljest (ühelehelise sissejuhatuse korral) nummerdatakse. Numbrid paigutatakse lehekülgede jalusesse (alla) keskele, kirjatüüp Arial, fondi suurus 10 punkti (10 pt). Eespool olevaid lehti võetakse nummerdamisel küll arvesse, kuid leheküljenumbreid neile ei lisata. Leheküljenumbreid ei kasutata resümee ja lisade puhul (kuid need kajastuvad sisukorras).
+Kõik leheküljed alates sissejuhatuse teisest leheküljest (mitmelehelise sissejuhatuse korral) või töö teoreetilise osa esimesest leheküljest (ühelehelise sissejuhatuse korral) nummerdatakse. 
+Numbrid paigutatakse lehekülgede jalusesse (alla) keskele, kirjatüüp Arial, fondi suurus 10 punkti (10 pt). 
+Eespool olevaid lehti võetakse nummerdamisel küll arvesse, kuid leheküljenumbreid neile ei lisata. 
+Leheküljenumbreid ei kasutata resümee ja lisade puhul (kuid need kajastuvad sisukorras).
 
 ## 5.3. Pealkirjad
 Peatükke alustatakse uuelt lehelt, alapeatükke alustatakse jooksvalt leheküljelt, jälgides, et lisaks pealkirjale mahuks leheküljele ka järgnevat teksti vähemalt kolm rida. Peatüki pealkirja ja järgneva teksti vahele jäetakse nn plokkstiilis vahe 12 pt (üks tähekõrgus). Peatüki pealkirja ja alapeatuki pealkirja vahel peab olema vähemalt üks lõik teksti. Pealkirjades sõnu ei poolitata, lühendeid ei kasutata. Pealkirjad joondatakse lehe vasakusse serva (v.a lisade pealkirjad, need asuvad lehe paremas servas) ja pealkirja lõppu ei panda punkti. 
