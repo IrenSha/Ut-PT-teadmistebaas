@@ -10,7 +10,7 @@ Käesolevas peatükis kirjeldatu on aluseks Paide Gümnaasiumis valmivate õpila
 - Taandridu ei kasutata.
 - Tekstilõigud eraldatakse plokkstiilis 12 pt.
 - Peatükid algavad uuelt lehelt.
-- 
+
 ## 5.1. Üldnõuded töö vormistamisel
 Töö vormistatakse arvutis A4 lehel. Lehe veerised st lehekülje vaba ruum on 3 cm vasakust ja 2 cm teistest servadest. 
 Kirjatüüp on Times New Roman, tähe suurus 12 punkti (12 pt), reavahe 1,5.
