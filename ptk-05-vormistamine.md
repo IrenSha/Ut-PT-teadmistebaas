@@ -1,5 +1,6 @@
 # 5. ÕPILASUURIMUSE JA PRAKTILISE TÖÖ VORMISTAMINE
 Käesolevas peatükis kirjeldatu on aluseks Paide Gümnaasiumis valmivate õpilasuurimuste või praktiliste tööde kirjalike osade, aga ka kõigi teiste pikemate kirjalike tööde vormistamisele. 
+
 ## Kiirülevaade olulisematest nõuetest
 - Lehe formaat: A4
 - Veerised: vasak 3 cm, ülejäänud 2 cm
@@ -9,6 +10,7 @@ Käesolevas peatükis kirjeldatu on aluseks Paide Gümnaasiumis valmivate õpila
 - Taandridu ei kasutata.
 - Tekstilõigud eraldatakse plokkstiilis 12 pt.
 - Peatükid algavad uuelt lehelt.
+- 
 ## 5.1. Üldnõuded töö vormistamisel
 Töö vormistatakse arvutis A4 lehel. Lehe veerised st lehekülje vaba ruum on 3 cm vasakust ja 2 cm teistest servadest. 
 Kirjatüüp on Times New Roman, tähe suurus 12 punkti (12 pt), reavahe 1,5.
@@ -18,17 +20,21 @@ Tuleb vältida töö peatüki alustamist ja lõpetamist tabelite, jooniste või 
 Teksti esile tõstmise kasutamisel tuleb olla mõõdukas. Kasutatakse 1–2 erinevat vormindamise võtet (kaldkiri, rasvane, laiendatud), mida järgitakse terve töö vältel. 
 Eestikeelses tekstis tuuakse võõrkeelsed sõnad ja selgitused kaldkirjas sulgudes kohe selgitatava sõna järel peale tühikut. 
 Kõik kirjalikud tööd koostatakse arvutil ja vajadusel prinditakse valge paberi ühele poolele formaadis A4. Kirjalike tööde vormistamisel on kõige olulisem stiiliühtsus kogu töös. Kõikides peatükkides peab olema tekst ühtemoodi kujundatud. 
+
 ## 5.2. Leheküljenumbrid
 Kõik leheküljed alates sissejuhatuse teisest leheküljest (mitmelehelise sissejuhatuse korral) või töö teoreetilise osa esimesest leheküljest (ühelehelise sissejuhatuse korral) nummerdatakse. Numbrid paigutatakse lehekülgede jalusesse (alla) keskele, kirjatüüp Arial, fondi suurus 10 punkti (10 pt). Eespool olevaid lehti võetakse nummerdamisel küll arvesse, kuid leheküljenumbreid neile ei lisata. Leheküljenumbreid ei kasutata resümee ja lisade puhul (kuid need kajastuvad sisukorras).
+
 ## 5.3. Pealkirjad
 Peatükke alustatakse uuelt lehelt, alapeatükke alustatakse jooksvalt leheküljelt, jälgides, et lisaks pealkirjale mahuks leheküljele ka järgnevat teksti vähemalt kolm rida. Peatüki pealkirja ja järgneva teksti vahele jäetakse nn plokkstiilis vahe 12 pt (üks tähekõrgus). Peatüki pealkirja ja alapeatuki pealkirja vahel peab olema vähemalt üks lõik teksti. Pealkirjades sõnu ei poolitata, lühendeid ei kasutata. Pealkirjad joondatakse lehe vasakusse serva (v.a lisade pealkirjad, need asuvad lehe paremas servas) ja pealkirja lõppu ei panda punkti. 
 Pealkirjad vormistatakse järgmiselt: 
 1) PEATÜKI PEALKIRI joondatakse lehe vasakusse serva (Heading 1/Pealkiri 1) Arial, 14 pt, rasvane, kõik trükitähed, lõiguvahe pärast 12 pt ja reavahe 1,5; must. 
 2) Alapeatüki pealkiri joondatakse lehe vasakusse serva (Heading 2/Pealkiri 2) Arial, 14 pt, rasvane, esimene suurtäht, lõiguvahe pärast 12 pt ja reavahe 1,5; must. 
 3) Punkti pealkiri joondatakse lehe vasakusse serva (Heading 3/Pealkiri 3) Times New Roman 12 pt, rasvane, esimene suurtäht, lõiguvahe pärast 12 pt ja reavahe 1,5; must. 
-4) Lisa 1. Pealkiri joondatakse lehe paremasse serva (Heading 4/Pealkiri 4) Times New Roman 12 pt, rasvane, esimene suurtäht, sõna Lisa ja selle number on kaldkirjas, lõiguvahe pärast 12 pt ja reavahe 1,5; must. 
+4) Lisa 1. Pealkiri joondatakse lehe paremasse serva (Heading 4/Pealkiri 4) Times New Roman 12 pt, rasvane, esimene suurtäht, sõna Lisa ja selle number on kaldkirjas, lõiguvahe pärast 12 pt ja reavahe 1,5; must.
+ 
 ## 5.4. Nummerdus
 Töös ja sisukorras nummerdatakse araabia numbritega järgnevad osad alustades number ühest: peatükid, alapeatükid ja nende alajaotused. Peatüki alapeatüki number peab sisaldama ka vastava peatüki numbrit. Sissejuhatust ja kokkuvõtet ei nummerdata, e nummerdatakse need osad, mis jäävad nende vahele. Kõik lisad tuleb nummerdada alates number ühest ja need paigutatakse kaldkirjas lehekülgede paremale ülaserva. Lisade esimene leht kajastub sisukorras pealkirjaga LISAD. 
+
 ## 5.5. Loetelud
 Loetelud peavad olema ühtsed terve töö vältel. Loetelud vormistatakse ühe plokina jälgides järgmisi nõudmisi: 
 1) esimene väiketäht; 
@@ -87,7 +93,7 @@ Viide koosneb kahest osast:
 2. viitekirje kasutatud allikate loetelus (peatükis Allikaloend). 
 Allikatena kasutatakse teaduslikke või vähemalt teaduslikkusele pretendeerivaid materjale. Allikmaterjalidena ei kasutata näiteks ajaviiteajakirju, välja arvatud juhul, kui need ongi töö uurimisobjektideks. Väga kriitiline tuleb olla internetiallikate (sh Vikipeedia) suhtes. 
 Teiste autorite seisukohti või andmeid võib esitada tsitaatide või refereeringutena. Tsitaat on sõnasõnaline väljavõte viidatava kirjatüki tekstist. Tsitaatidena tuuakse välja eriti ilmekad ja huvitavad mõtted või näited. Tsiteerimist kasutatakse võimalikult harva. 
-Tsitaat peab olema jutumärkides ning lõppema viitega. Kui tsitaadis on mõned sõnad või laused, mis pole töö seisukohast olulised, võib need tsitaadist välja jätta, kuid väljajätt peab olema tähistatud. Lühemad väljajätted märgitakse punktidega … . Pikemad väljajätted märgitakse nurksulgudes kolme sidekriipsuga ```[---]```. Lühendus ei tohi muuta originaalteksti mõtet.
+Tsitaat peab olema jutumärkides ning lõppema viitega. Kui tsitaadis on mõned sõnad või laused, mis pole töö seisukohast olulised, võib need tsitaadist välja jätta, kuid väljajätt peab olema tähistatud. Lühemad väljajätted märgitakse kolme punktiga (…). Pikemad väljajätted märgitakse nurksulgudes kolme sidekriipsuga ```[---]```. Lühendus ei tohi muuta originaalteksti mõtet.
 
 **Näide**
 > „Kogutud andmete analüüsimine, tõlgendamine ja järelduste tegemine on uurimuses otsustava tähtsusega. ```[---]```. Analüüsietapis saab uurijale selgeks, millised on vastused tema poolt püstitatud probleemile.“ (Hirsjärvi jt, 2010)
