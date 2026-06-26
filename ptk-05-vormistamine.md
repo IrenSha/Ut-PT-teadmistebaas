@@ -64,25 +64,41 @@ Loetelud peavad olema ühtsed terve töö vältel. Loetelud vormistatakse ühe p
 1) esimene väiketäht; 
 2) reavahe 1,5; 
 3) peale sissejuhatavat rida ja ridade vahel ei ole lisatud lõiguvahe 12 pt. 
-Loetelupunkte võib tähistada araabia numbrite, väiketähtede, mõttekriipsude ja tärnide või muude graafiliste kujunditega. Nummerdust kasutatakse enamasti siis, kui fookuses on loetelu koostisosade järjekord või arv, muudel juhtudel võib pigem jätta numbrid või tähed ära ning asendada need graafiliste kujunditega. Üksikutest sõnadest koosnev loetelu kirjutatakse ühte ritta, loendieraldajana kasutatakse suluga arve või suluga väiketähti. Loendi elemendid eraldatakse komadega, lause lõpeb punktiga.
+Loetelupunkte võib tähistada araabia numbrite, väiketähtede, mõttekriipsude ja tärnide või muude graafiliste kujunditega.
+
+Nummerdust kasutatakse enamasti siis, kui fookuses on loetelu koostisosade järjekord või arv, muudel juhtudel võib pigem jätta numbrid või tähed ära ning asendada need graafiliste kujunditega. 
+
+Üksikutest sõnadest koosnev loetelu kirjutatakse ühte ritta, loendieraldajana kasutatakse suluga arve või suluga väiketähti. Loendi elemendid eraldatakse komadega, lause lõpeb punktiga.
 
 **Näide**
 > Tähtsamad kasvuhoonegaasid on: a) veeaur, b) süsinikdioksiid, c) metaan.
 
 ## 5.6. Töö keeleline vormistamine
-Keel (eesti, vene, inglise, saksa vms), milles töö on kirjutatud, peab olema töö sisust lähtuv ning kokku lepitud juhendajaga. Töös kasutatakse teaduslikku stiili ja normikohast õigekirja. Kirjapandu peab olema selge, täpne, neutraalne ja korrektne. Kasutatavad põhimõisted, mis ei ole lugejatele üheselt mõistetavad, seletatakse lahti kirjanduse ülevaates. Töö kirjutamisel tuleb jälgida, et üks lause väljendaks ühte mõtet, üks lõik ühte mõttearendust.
+Keel (eesti, vene, inglise, saksa vms), milles töö on kirjutatud, peab olema töö sisust lähtuv ning kokku lepitud juhendajaga. 
+
+Töös kasutatakse teaduslikku stiili ja normikohast õigekirja. 
+
+Kirjapandu peab olema selge, täpne, neutraalne ja korrektne. Kasutatavad põhimõisted, mis ei ole lugejatele üheselt mõistetavad, seletatakse lahti kirjanduse ülevaates. 
+
+Töö kirjutamisel tuleb jälgida, et üks lause väljendaks ühte mõtet, üks lõik ühte mõttearendust.
+
 Võõrkeelsest kirjandusest refereeritud mõiste, mille tähendus ei ole eesti keeles kõigi jaoks üheselt tuntud, tuleb töös esimest korda mainides sulgudes kursiivkirjas ka originaalkeeles välja tuua.
 
 **Näide**
 > Enesetõhusus (self-efficacy) on tugevalt seotud õpitulemustega.
 
-Võõrkeelsest kirjandusest materjali tõlkimisel peab kindlasti jälgima lauseehitust ning püüdma vältida liiga pikki lauseid. 
-Töö kirjutatakse kas umbisikulises vormis (tehti, uuriti ja järeldati), meie-vormis (tegime, uurisime ja järeldasime) või mina-vormis (tegin, uurisin ja järeldasin). Esimene variant on uurimistöödes enim kasutatav. Ülejäänuid kasutatakse pigem praktiliste tööde korral. 
+Võõrkeelsest kirjandusest materjali tõlkimisel peab kindlasti jälgima lauseehitust ning püüdma vältida liiga pikki lauseid.
+
+Töö kirjutatakse kas umbisikulises vormis (tehti, uuriti ja järeldati), meie-vormis (tegime, uurisime ja järeldasime) või mina-vormis (tegin, uurisin ja järeldasin). Esimene variant on uurimistöödes enim kasutatav. Ülejäänuid kasutatakse pigem praktiliste tööde korral.
+
 Meie-vorm sobib siis, kui tööl on mitu autorit. Igal juhul peab vorm olema kogu töös ühtne. Sama kehtib ka ajavormi (olevik või minevik) kasutamise kohta.
 
 ## 5.7. Tabelite, jooniste ja valemite vormistamine
-Tabelid ja joonised võimaldavad esitada süstematiseeritult ja ülevaatlikult arvandmeid ning seoseid või illustreerida teksti. 
-Iga tabel on nummerdatud (Tabel 1, Tabel 2 jne) ning varustatud pealkirjaga, mis paikneb tabeli kohal, nagu on näha näidiseks toodud Tabelis 1. Tabelite numbreid hakatakse lugema alates esimesest tabelist töös. Pealkiri peab olema võimalikult lühike ja selge, kuid samas mõtestama tabeli sisu lahti ka tööd mittelugenud inimesele. Tabelile peab olema (eelnevas) tekstis viidatud.
+Tabelid ja joonised võimaldavad esitada süstematiseeritult ja ülevaatlikult arvandmeid ning seoseid või illustreerida teksti.
+
+Iga tabel on nummerdatud (Tabel 1, Tabel 2 jne) ning varustatud pealkirjaga, mis paikneb tabeli kohal, nagu on näha näidiseks toodud Tabelis 1. 
+
+Tabelite numbreid hakatakse lugema alates esimesest tabelist töös. Pealkiri peab olema võimalikult lühike ja selge, kuid samas mõtestama tabeli sisu lahti ka tööd mittelugenud inimesele. Tabelile peab olema (eelnevas) tekstis viidatud.
 
 **Näide**
 ```
@@ -93,7 +109,15 @@ Tabel 1. Uurimuses osalenud õpilaste jagunemine klassiti ja maakonniti
 | Võrumaa  |     49    |     91    |    140    |     91    |     49    |
 | Kokku    |     94    |    188    |    274    |    180    |     86    |
 ```
-Tabel peab olema loetav ka põhiteksti süvenemata. Tabelis kasutatud sümbolid ja lühendid seletatakse lahti tabeli all. Tabeli veergudel ja ridadel peavad olema nimetused, mis on andmetest eraldatud. Tabelis olevatele arvudele ei lisata ühikuid, vaid need esitatakse veeru/rea päises. Tabelite kujundus peab olema kogu töös ühtne, aga fondi suurus ja stiil võib erineda teksti fondi stiilist ja suurusest. Tabeli pealkiri paikneb lehekülje vasakus servas ning tabel ise on joondatud lehekülje keskele. Tabelis kasutatakse reavahet 1 pt ning lõiguvahe puudub. Tabeli pealkiri ja tabel moodustavad lõigu.
+Tabel peab olema loetav ka põhiteksti süvenemata. Tabelis kasutatud sümbolid ja lühendid seletatakse lahti tabeli all. Tabeli veergudel ja ridadel peavad olema nimetused, mis on andmetest eraldatud. 
+
+Tabelis olevatele arvudele ei lisata ühikuid, vaid need esitatakse veeru/rea päises. 
+
+Tabelite kujundus peab olema kogu töös ühtne, aga fondi suurus ja stiil võib erineda teksti fondi stiilist ja suurusest. 
+
+Tabeli pealkiri paikneb lehekülje vasakus servas ning tabel ise on joondatud lehekülje keskele. 
+
+Tabelis kasutatakse reavahet 1 pt ning lõiguvahe puudub. Tabeli pealkiri ja tabel moodustavad lõigu.
 
 Mahukad tabelid, mille esitamata jätmine töö põhiosas ei vähenda töö selgust, on mõistlik panna töö lisadesse. Lisades alustatakse tabelite nummerdamist igas lisas uuesti.
 
@@ -110,18 +134,31 @@ Oluline on silmas pidada, et tabelarvutusprogrammis diagrammi koostamisel ei lis
 > Joonis 2. Küsimustikule vastajate vanuseline jaotumine (n = 29)
 
 Jooniste allkirjade ja tabelite pealkirjade lõppu punkti ei panda, v.a juhtumid kui viidatakse joonise/tabeli allikale. Nii jooniste kui tabelite puhul tuleks jälgida, et all- ja pealkirjad oleksid üheselt mõistetavad ning annaks edasi olulist informatsiooni. 
-Diagrammidel ja graafikutel peavad olema teljed märgistatud ja ühikud lisatud. 
-Joonised ja tabelid paigutatakse lehekülje keskele ning töös võimalikult lähedale tekstile, kus neid esmakordselt viidatakse. Tabel/joonis ja selle peal-/allkiri moodustavad ühe lõigu. 
+Diagrammidel ja graafikutel peavad olema teljed märgistatud ja ühikud lisatud.
+
+Joonised ja tabelid paigutatakse lehekülje keskele ning töös võimalikult lähedale tekstile, kus neid esmakordselt viidatakse. Tabel/joonis ja selle peal-/allkiri moodustavad ühe lõigu.
+
 Kui joonis või tabel ei ole ise loodud või ei põhine enda kogutud andmetel, siis tuleb joonise allkirjale või tabeli pealkirjale lisada viide allika(te)le.
 
 ## 5.8. Viitamine
-Viidata tuleb kõigile allikatele, milles esitatud mõtteid või andmeid kasutatakse, välja arvatud üldtuntud faktid (nn õpikutõed). 
-Võõraste mõtete esitamist enda omade pähe käsitletakse plagiaadina, mille tuvastamisel on retsensendil ja töö kaitsmise komisjonil õigus sõltuvalt eksimuse ulatusest kas tööd üldse mitte hinnata või hinnata oluliselt madalamalt. Kindlasti tuleb viidata ka teiste autorite fotodele, graafikutele jm illustratiivsele materjalile. 
+Viidata tuleb kõigile allikatele, milles esitatud mõtteid või andmeid kasutatakse, välja arvatud üldtuntud faktid (nn õpikutõed).
+
+Võõraste mõtete esitamist enda omade pähe käsitletakse plagiaadina, mille tuvastamisel on retsensendil ja töö kaitsmise komisjonil õigus sõltuvalt eksimuse ulatusest kas tööd üldse mitte hinnata või hinnata oluliselt madalamalt. Kindlasti tuleb viidata ka teiste autorite fotodele, graafikutele jm illustratiivsele materjalile.
+
 Viide koosneb kahest osast: 
 1. tekstisisene viide, 
-2. viitekirje kasutatud allikate loetelus (peatükis Allikaloend). 
-Allikatena kasutatakse teaduslikke või vähemalt teaduslikkusele pretendeerivaid materjale. Allikmaterjalidena ei kasutata näiteks ajaviiteajakirju, välja arvatud juhul, kui need ongi töö uurimisobjektideks. Väga kriitiline tuleb olla internetiallikate (sh Vikipeedia) suhtes. 
-Teiste autorite seisukohti või andmeid võib esitada tsitaatide või refereeringutena. Tsitaat on sõnasõnaline väljavõte viidatava kirjatüki tekstist. Tsitaatidena tuuakse välja eriti ilmekad ja huvitavad mõtted või näited. Tsiteerimist kasutatakse võimalikult harva. 
+2. viitekirje kasutatud allikate loetelus (peatükis Allikaloend).
+
+Allikatena kasutatakse teaduslikke või vähemalt teaduslikkusele pretendeerivaid materjale. 
+
+Allikmaterjalidena ei kasutata näiteks ajaviiteajakirju, välja arvatud juhul, kui need ongi töö uurimisobjektideks. 
+
+Väga kriitiline tuleb olla internetiallikate (sh Vikipeedia) suhtes.
+
+Teiste autorite seisukohti või andmeid võib esitada tsitaatide või refereeringutena. 
+
+Tsitaat on sõnasõnaline väljavõte viidatava kirjatüki tekstist. Tsitaatidena tuuakse välja eriti ilmekad ja huvitavad mõtted või näited. Tsiteerimist kasutatakse võimalikult harva.
+
 Tsitaat peab olema jutumärkides ning lõppema viitega. Kui tsitaadis on mõned sõnad või laused, mis pole töö seisukohast olulised, võib need tsitaadist välja jätta, kuid väljajätt peab olema tähistatud. Lühemad väljajätted märgitakse kolme punktiga (…). Pikemad väljajätted märgitakse nurksulgudes kolme sidekriipsuga ```[---]```. Lühendus ei tohi muuta originaalteksti mõtet.
 
 **Näide**
@@ -157,7 +194,8 @@ OpenArt. (kuupäev puudub). Kasutatud 14. augustil 2025. a [Graafiline disainit�
 Faktidele osutamisel tekstis tuleb viidata originaalallikatele vastavalt APA7 nõuetele. 
 
 ## 5.9. Viitekirjete koostamine
-Erinevates (teadus)valdkondades kasutatakse erinevaid viitamissüsteeme. Paide Gümnaasiumis  viitekirjete ja viidete koostamisel tuleb kasutada  APA7 (American Psychological Association) süsteemi. 
+Erinevates (teadus)valdkondades kasutatakse erinevaid viitamissüsteeme. Paide Gümnaasiumis  viitekirjete ja viidete koostamisel tuleb kasutada  APA7 (American Psychological Association) süsteemi.
+
 Kui viide kehtib ühe lause kohta, kirjutatakse lauset lõpetav punkt sulgudes oleva viite järele. Kui tsitaat või refereering koosneb mitmest lausest, esitatakse viide pärast viimase lause punkti; viite lõpusulu järele sel juhul punkti ei panda.
 
 **Näited**
@@ -197,10 +235,16 @@ Internetiallikale viidates märgitakse autor või selle puudumisel lehe omaniku 
 > Meeter (kreeka sõnast metron 'mõõt'; lühend m) on SI-süsteemi põhiühikute hulka kuuluv pikkusühik. Meeter on pikkus, mille läbib valgus vaakumis 1/299792458 sekundi jooksul. (Eesti metroloogia keskasutus, 2018)
 
 ## 5.11. Allikaloendi vormistamine
-Kasutatud allikate loetelu töö lõpus hõlmab endas kõiki viidatud allikaid. Materjali, mille autor küll läbi töötas, kuid mida töö lõpptekstis ei ole refereeritud ega tsiteeritud, allikate loetellu ei lisata. 
-Kasutatud allikad esitatakse loetelus kirjete tähestikulises järjekorras, kusjuures ühe autori tööd reastatakse ilmumisaasta järgi. Tähestikulise järjekorra puhul paigutatakse ette ladinatähestikulised ning seejärel slaavitähestikulised allikad. 
-Viitekirjes esitatakse minimaalselt vajalikul hulgal kindlaksmääratud järjestuses allika tuvastamist võimaldavad andmed: autor, pealkiri, ilmumisandmed, leheküljenumbrid. Autori(te) eesnime(d) kirjutatakse välja initsiaalide kujul (lõpeb punktiga!). Need andmed eraldatakse üksteisest kindlate kirjavahemärkidega: punkt, koma, koolon, mõttekriips, ümar- ja nurksulud. Kirje koostatakse viidatava algallika keeles. Pealkirjades lühendeid ja jutumärke ei kasutata. 
+Kasutatud allikate loetelu töö lõpus hõlmab endas kõiki viidatud allikaid. Materjali, mille autor küll läbi töötas, kuid mida töö lõpptekstis ei ole refereeritud ega tsiteeritud, allikate loetellu ei lisata.
+
+Kasutatud allikad esitatakse loetelus kirjete tähestikulises järjekorras, kusjuures ühe autori tööd reastatakse ilmumisaasta järgi. Tähestikulise järjekorra puhul paigutatakse ette ladinatähestikulised ning seejärel slaavitähestikulised allikad.
+
+Viitekirjes esitatakse minimaalselt vajalikul hulgal kindlaksmääratud järjestuses allika tuvastamist võimaldavad andmed: autor, pealkiri, ilmumisandmed, leheküljenumbrid. Autori(te) eesnime(d) kirjutatakse välja initsiaalide kujul (lõpeb punktiga!). Need andmed eraldatakse üksteisest kindlate kirjavahemärkidega: punkt, koma, koolon, mõttekriips, ümar- ja nurksulud. 
+
+Kirje koostatakse viidatava algallika keeles. Pealkirjades lühendeid ja jutumärke ei kasutata. 
+
 Järgnevalt kirjeldatakse vähemlevinud allikatele viitamist autor/aasta viitamise korral. Laiemaltlevinud allikatele viitamine on välja toodud Lisas 4.
+
 #### Arhiivimaterjalid
 Säiliku nimetus. Arhiivi nimetus, fondi (f) number, nimistu (n) number, säiliku (s) number.
 
