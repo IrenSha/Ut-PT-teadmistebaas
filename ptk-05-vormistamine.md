@@ -54,7 +54,8 @@ Võõrkeelsest kirjandusest refereeritud mõiste, mille tähendus ei ole eesti k
 
 Võõrkeelsest kirjandusest materjali tõlkimisel peab kindlasti jälgima lauseehitust ning püüdma vältida liiga pikki lauseid. 
 Töö kirjutatakse kas umbisikulises vormis (tehti, uuriti ja järeldati), meie-vormis (tegime, uurisime ja järeldasime) või mina-vormis (tegin, uurisin ja järeldasin). Esimene variant on uurimistöödes enim kasutatav. Ülejäänuid kasutatakse pigem praktiliste tööde korral. 
-Meie-vorm sobib siis, kui tööl on mitu autorit. Igal juhul peab vorm olema kogu töös ühtne. Sama kehtib ka ajavormi (olevik või minevik) kasutamise kohta. 
+Meie-vorm sobib siis, kui tööl on mitu autorit. Igal juhul peab vorm olema kogu töös ühtne. Sama kehtib ka ajavormi (olevik või minevik) kasutamise kohta.
+
 ## 5.7. Tabelite, jooniste ja valemite vormistamine
 Tabelid ja joonised võimaldavad esitada süstematiseeritult ja ülevaatlikult arvandmeid ning seoseid või illustreerida teksti. 
 Iga tabel on nummerdatud (Tabel 1, Tabel 2 jne) ning varustatud pealkirjaga, mis paikneb tabeli kohal, nagu on näha näidiseks toodud Tabelis 1. Tabelite numbreid hakatakse lugema alates esimesest tabelist töös. Pealkiri peab olema võimalikult lühike ja selge, kuid samas mõtestama tabeli sisu lahti ka tööd mittelugenud inimesele. Tabelile peab olema (eelnevas) tekstis viidatud.
@@ -68,9 +69,12 @@ Tabel 1. Uurimuses osalenud õpilaste jagunemine klassiti ja maakonniti
 | Võrumaa  |     49    |     91    |    140    |     91    |     49    |
 | Kokku    |     94    |    188    |    274    |    180    |     86    |
 ```
-Tabel peab olema loetav ka põhiteksti süvenemata. Tabelis kasutatud sümbolid ja lühendid seletatakse lahti tabeli all. Tabeli veergudel ja ridadel peavad olema nimetused, mis on andmetest eraldatud. Tabelis olevatele arvudele ei lisata ühikuid, vaid need esitatakse veeru/rea päises. Tabelite kujundus peab olema kogu töös ühtne, aga fondi suurus ja stiil võib erineda teksti fondi stiilist ja suurusest. Tabeli pealkiri paikneb lehekülje vasakus servas ning tabel ise on joondatud lehekülje keskele. Tabelis kasutatakse reavahet 1,5 pt ning lõiguvahe puudub. Tabeli pealkiri ja tabel moodustavad lõigu. 
-Mahukad tabelid, mille esitamata jätmine töö põhiosas ei vähenda töö selgust, on mõistlik panna töö lisadesse. Lisades alustatakse tabelite nummerdamist igas lisas uuesti. 
-Ka suurem hulk illustreerivaid jooniseid (nt fotod), mille esitamata jätmine töö põhiosas ei vähenda töö selgust, on mõistlik panna töö lisadesse. Lisades alustatakse jooniste nummerdamist igas lisas uuesti. 
+Tabel peab olema loetav ka põhiteksti süvenemata. Tabelis kasutatud sümbolid ja lühendid seletatakse lahti tabeli all. Tabeli veergudel ja ridadel peavad olema nimetused, mis on andmetest eraldatud. Tabelis olevatele arvudele ei lisata ühikuid, vaid need esitatakse veeru/rea päises. Tabelite kujundus peab olema kogu töös ühtne, aga fondi suurus ja stiil võib erineda teksti fondi stiilist ja suurusest. Tabeli pealkiri paikneb lehekülje vasakus servas ning tabel ise on joondatud lehekülje keskele. Tabelis kasutatakse reavahet 1 pt ning lõiguvahe puudub. Tabeli pealkiri ja tabel moodustavad lõigu.
+
+Mahukad tabelid, mille esitamata jätmine töö põhiosas ei vähenda töö selgust, on mõistlik panna töö lisadesse. Lisades alustatakse tabelite nummerdamist igas lisas uuesti.
+
+Ka suurem hulk illustreerivaid jooniseid, mille esitamata jätmine töö põhiosas ei vähenda töö selgust, on mõistlik panna töö lisadesse. Lisades alustatakse jooniste nummerdamist igas lisas uuesti.
+
 Joonisteks nimetatakse kõiki teisi illustratiivseid materjale, nagu graafikud, diagrammid, skeemid, pildid, fotod, kaardid jne. Joonised on sarnaselt tabelitele nummerdatud ja varustatud allkirjadega ning neilegi viidatakse tekstis. Erinevus on selles, et joonise allkiri asub joonise all, nagu on näha näidiseks toodud Joonisel 1.
 
 **Näide**
@@ -84,7 +88,8 @@ Oluline on silmas pidada, et tabelarvutusprogrammis diagrammi koostamisel ei lis
 Jooniste allkirjade ja tabelite pealkirjade lõppu punkti ei panda, v.a juhtumid kui viidatakse joonise/tabeli allikale. Nii jooniste kui tabelite puhul tuleks jälgida, et all- ja pealkirjad oleksid üheselt mõistetavad ning annaks edasi olulist informatsiooni. 
 Diagrammidel ja graafikutel peavad olema teljed märgistatud ja ühikud lisatud. 
 Joonised ja tabelid paigutatakse lehekülje keskele ning töös võimalikult lähedale tekstile, kus neid esmakordselt viidatakse. Tabel/joonis ja selle peal-/allkiri moodustavad ühe lõigu. 
-Kui joonis või tabel ei ole ise loodud või ei põhine enda kogutud andmetel, siis tuleb joonise allkirjale või tabeli pealkirjale lisada viide allika(te)le. 
+Kui joonis või tabel ei ole ise loodud või ei põhine enda kogutud andmetel, siis tuleb joonise allkirjale või tabeli pealkirjale lisada viide allika(te)le.
+
 ## 5.8. Viitamine
 Viidata tuleb kõigile allikatele, milles esitatud mõtteid või andmeid kasutatakse, välja arvatud üldtuntud faktid (nn õpikutõed). 
 Võõraste mõtete esitamist enda omade pähe käsitletakse plagiaadina, mille tuvastamisel on retsensendil ja töö kaitsmise komisjonil õigus sõltuvalt eksimuse ulatusest kas tööd üldse mitte hinnata või hinnata oluliselt madalamalt. Kindlasti tuleb viidata ka teiste autorite fotodele, graafikutele jm illustratiivsele materjalile. 
