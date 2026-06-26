@@ -1,5 +1,8 @@
-# 5. ÕPILASUURIMUSE JA PRAKTILISE TÖÖ VORMISTAMINE
-Käesolevas peatükis kirjeldatu on aluseks Paide Gümnaasiumis valmivate õpilasuurimuste või praktiliste tööde kirjalike osade, aga ka kõigi teiste pikemate kirjalike tööde vormistamisele. 
+# PAIDE GÜMNAASIUMI ÕPILASUURIMUSE JA PRAKTILISE TÖÖ VORMISTAMINE
+
+*Paide Gümnaasiumi ÕÜ/PT juhendi peatükk 5*
+
+See peatükk selgitab Paide Gümnaasiumi uurimistöö ja praktilise töö vormistamise nõudeid. Käsitletakse veeriseid, kirjatüüpi, reavahet, pealkirjade vormistamist, leheküljenumbreid, tabeleid, jooniseid, viitamist, APA7 viitamissüsteemi, allikaloendit ja lisasid.
 
 ## Kiirülevaade olulisematest nõuetest
 - Lehe formaat: A4
