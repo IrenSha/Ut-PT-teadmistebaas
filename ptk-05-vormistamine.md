@@ -113,6 +113,7 @@ Peamine viis kirjanduse allikatele viidata on refereering. Sellisel juhul võeta
 2) kui kasutatakse rakenduse väljundit sisu loomes (nt tekstiroboti loodud tekstilõik või pildigeneraatori loodud pilt), tuleb rakendusele viidata vastavalt kehtivale viitamissüsteemile. 
 
 **Näide**
+
 Tekstis:
 > Terekest in Estonian is a friendly, informal greeting. It’s a diminutive form of “tere” (“hello”). Adding -kest makes it sound warmer or more playful, like saying “hello there!” or “hiya!” in English. It’s often used among friends, family, or in casual settings — not in formal situations. (OpenAI, 2025)
 
@@ -121,6 +122,7 @@ Allikaloendis:
 OpenAI. (2025). ChatGPT (14. augusti versioon) [Suur keelemudel]. https://chatgpt.com
 ```
 **Näide**
+
 Tekstis:
 > Joonis 3. Homme on uurimistöö esitamise tähtaeg! (OpenArt, kuupäev puudub)
 
@@ -129,11 +131,13 @@ Allikaloendis:
 OpenArt. (kuupäev puudub). Kasutatud 14. augustil 2025. a [Graafiline disainitööriist]. https://openart.ai/
 ```
 Faktidele osutamisel tekstis tuleb viidata originaalallikatele vastavalt APA7 nõuetele. 
+
 ## 5.9. Viitekirjete koostamine
 Erinevates (teadus)valdkondades kasutatakse erinevaid viitamissüsteeme. Paide Gümnaasiumis  viitekirjete ja viidete koostamisel tuleb kasutada  APA7 (American Psychological Association) süsteemi. 
 Kui viide kehtib ühe lause kohta, kirjutatakse lauset lõpetav punkt sulgudes oleva viite järele. Kui tsitaat või refereering koosneb mitmest lausest, esitatakse viide pärast viimase lause punkti; viite lõpusulu järele sel juhul punkti ei panda.
 
 **Näited**
+
 Lause refereering:
 > Siin võib tõmmata paralleeli järgmises alapeatükis pikemalt käsitletava Pierre Bourdieu kontseptsiooniga habitus’est, mis on samuti igapäevase ja harjumusliku käitumise alus. Kui häbitus’el on keskkonnaga sarnased struktuurid, tajutakse neid loomulike ja enesestmõistetavatena ning teadvuse sekkumine pole oluline (Käärik, 2013).
 
