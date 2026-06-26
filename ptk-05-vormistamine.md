@@ -185,18 +185,18 @@ Nendele viitamise puhul on oluline anda allikate loetelus piisavalt informatsioo
 > Paju, J. (2017). Suuliselt autorile, 20.11. 
 
 ## Märksõnad
-vormistus
-veerised
-font
-Times New Roman
-Arial
-reavahe
-plokkstiil
-taandrida
-pealkirjad
-leheküljenumbrid
-APA7
-viitamine
-allikaloend
-
-
+vormistus,
+veerised,
+font,
+Times New Roman,
+Arial,
+reavahe,
+plokkstiil,
+taandrida,
+pealkirjad,
+leheküljenumbrid,
+APA7,
+viitamine,
+allikaloend,
+sisukord,
+lisad
