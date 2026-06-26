@@ -136,7 +136,9 @@ Oluline on silmas pidada, et tabelarvutusprogrammis diagrammi koostamisel ei lis
 Jooniste allkirjade ja tabelite pealkirjade lõppu punkti ei panda, v.a juhtumid kui viidatakse joonise/tabeli allikale. Nii jooniste kui tabelite puhul tuleks jälgida, et all- ja pealkirjad oleksid üheselt mõistetavad ning annaks edasi olulist informatsiooni. 
 Diagrammidel ja graafikutel peavad olema teljed märgistatud ja ühikud lisatud.
 
-Joonised ja tabelid paigutatakse lehekülje keskele ning töös võimalikult lähedale tekstile, kus neid esmakordselt viidatakse. Tabel/joonis ja selle peal-/allkiri moodustavad ühe lõigu.
+Joonised ja tabelid paigutatakse lehekülje keskele ning töös võimalikult lähedale tekstile, kus neid esmakordselt viidatakse.
+
+Tabel/joonis ja selle peal-/allkiri moodustavad ühe lõigu ning asuvad teksti sees, kuid mitte lehekülje alguses/lõpus.
 
 Kui joonis või tabel ei ole ise loodud või ei põhine enda kogutud andmetel, siis tuleb joonise allkirjale või tabeli pealkirjale lisada viide allika(te)le.
 
