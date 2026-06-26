@@ -6,10 +6,10 @@ Käesolevas peatükis kirjeldatu on aluseks Paide Gümnaasiumis valmivate õpila
 - Veerised: vasak 3 cm, ülejäänud 2 cm
 - Font: Times New Roman 12 pt
 - Reavahe: 1,5
-- Tekst on rööpjoondatud.
-- Taandridu ei kasutata.
-- Tekstilõigud eraldatakse plokkstiilis 12 pt.
-- Peatükid algavad uuelt lehelt.
+- Tekst on rööpjoondatud
+- Taandridu ei kasutata
+- Tekstilõigud eraldatakse plokkstiilis 12 pt vahedega
+- Peatükid algavad uuelt lehelt
 
 ## 5.1. Üldnõuded töö vormistamisel
 Töö vormistatakse arvutis A4 lehel. Lehe veerised st lehekülje vaba ruum on 3 cm vasakust ja 2 cm teistest servadest. 
