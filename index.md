@@ -6,7 +6,7 @@ See teadmistebaas põhineb Paide Gümnaasiumi uurimistöö ja praktilise töö a
 *Teemad lisanduvad järk-järgult.*
 
 - Uurimistöö ja praktilise töö ülesehitus
-- [Uurimistöö ja praktilise töö vormistamine](ptk-05-vormistamine.md)
+- [Uurimistöö ja praktilise töö vormistamine](vormistamine.md)
 - Allikaloend ja APA7 juhised
 - Hindamiskriteeriumid
 
