@@ -6,7 +6,7 @@ Selles rakenduses kasutatud piltide allikad ja autoriviited.
 
 [Answer PNGs by Vecteezy](https://www.vecteezy.com/free-png/answer)
 
-## Vastus -- Answer mark
+## Vastus -- Answer mark recoloured and resized with OpenAI
 
 [Answer PNGs by Vecteezy](https://www.vecteezy.com/free-png/answer)
 
